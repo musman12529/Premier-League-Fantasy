@@ -16,7 +16,7 @@ You can find the project here! https://premier-league-frontend.vercel.app/
 - **Database**: Real-time data manipulation within a Postgres database using SQL queries.
 - **Frontend**: Seamless integration with a user-friendly ReactJS interface.
 - **Machine Learning**: Created a model to predict match outcomes by integrating data scraping with pandas and machine learning with scikit-learn.
-- **Data Scraping**: Engineered a comprehensive data scraping of match statistics for 700+ players using Python and pandas.
+- **Data Scraping**: Engineered a comprehensive data scraping of match statistics for 600+ players using Python and pandas.
 
 
 
