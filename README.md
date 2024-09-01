@@ -1,3 +1,28 @@
+# Premier League Fantasy
+
+Premier League Fantasy is a comprehensive project designed to scrape match statistics for over 600 players, manipulate and present the data dynamically, and predict match outcomes using machine learning. The project is divided into four main components: Backend, Frontend, Data Scraping, and Machine Learning.
+
+![Screenshot 2024-08-31 225607](https://github.com/user-attachments/assets/72face82-b03a-4cc7-86d5-8b84b895c76f)
+
+
+You can find the project here! https://premier-league-frontend.vercel.app/
+
+> **Note**: The Frontend is hosted on vercel and backend is hosted on Railway and the database is hosted on Heroku
+
+## Features
+
+
+- **Backend**: Dynamic manipulation and presentation of the scraped data through a Spring Boot application.
+- **Database**: Real-time data manipulation within a Postgres database using SQL queries.
+- **Frontend**: Seamless integration with a user-friendly ReactJS interface.
+- **Machine Learning**: Created a model to predict match outcomes by integrating data scraping with pandas and machine learning with scikit-learn.
+- **Data Scraping**: Engineered a comprehensive data scraping of match statistics for 700+ players using Python and pandas.
+
+
+
+
+
+
 # Football Match Prediction
 
 This repository contains a machine learning model to predict the outcome of football matches using a Random Forest classifier. The dataset is processed to include features like venue, opponent, and rolling averages of game statistics to enhance prediction accuracy.
