@@ -2,7 +2,8 @@
 
 Premier League Fantasy is a comprehensive project designed to scrape match statistics for over 600 players, manipulate and present the data dynamically, and predict match outcomes using machine learning. The project is divided into four main components: Backend, Frontend, Data Scraping, and Machine Learning.
 
-![Screenshot 2024-08-31 225607](https://github.com/user-attachments/assets/72face82-b03a-4cc7-86d5-8b84b895c76f)
+[![Screenshot 2024-08-31 225607](https://github.com/user-attachments/assets/72face82-b03a-4cc7-86d5-8b84b895c76f)](https://premier-league-frontend.vercel.app/)
+
 
 
 You can find the project here! https://premier-league-frontend.vercel.app/
